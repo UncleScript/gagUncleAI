@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UncleScript/test3/refs/heads/main/test3"))()
 loadstring(game:HttpGet("https://pastefy.app/k9zLOcTE/raw"))()
