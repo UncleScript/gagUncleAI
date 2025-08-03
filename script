@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UncleScript/test/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UncleScript/test2/refs/heads/main/test2"))()
